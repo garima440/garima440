@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garima440
-- 👀 I’m interested in getting a job as software developer
+- 👀 I’m interested in getting a job as Computer Engineer
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me email:- garima.kapilmhjn@gmail.com
