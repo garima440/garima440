@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @garima440
-- 👀 I’m interested in getting a job as Computer Engineer
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking to collaborate on python and web application projects
 - 📫 How to reach me email:- gm3228@nyu.edu
